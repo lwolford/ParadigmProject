@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FinalAlarm</string>
+    <string name="title">Title</string>
+    <string name="message">message</string>
+    <string name="schedule_notification">schedule_notification</string>
+    <string name="cancel_alarm">Cancel Alarm</string>
+</resources>
